@@ -1,0 +1,13 @@
+package org.mm.mow;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class M06PgseEad0923PsApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

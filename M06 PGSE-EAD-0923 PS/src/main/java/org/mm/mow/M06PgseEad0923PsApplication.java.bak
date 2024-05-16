@@ -1,0 +1,13 @@
+package org.mm.mow;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class M06PgseEad0923PsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(M06PgseEad0923PsApplication.class, args);
+	}
+
+}

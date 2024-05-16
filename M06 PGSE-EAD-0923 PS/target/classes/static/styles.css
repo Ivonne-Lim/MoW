@@ -1,0 +1,9 @@
+@media (min-width: 1024px) {
+
+  header td, footer td {
+
+    width: 192px;
+
+  }
+
+}
